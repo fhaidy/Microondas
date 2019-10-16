@@ -1,0 +1,6 @@
+﻿Pipoca$_$A entrada Pipoca será aquecida por 30s na potência 3$_$00:00:30$_$3$_$#
+Frango$_$A entrada Frango será aquecida por 50s na potência 5$_$00:00:50$_$5$_$%
+Carne$_$A entrada Carne será aquecida por 60s na potência 6$_$00:01:00$_$6$_$^
+Pudim$_$A entrada Pudim será aquecida por 20s na potência 2$_$00:00:20$_$2$_$@
+Macarrão$_$A entrada Macarrão será aquecida por 40s na potência 4$_$00:00:40$_$4$_$$
+Teste$_$teste$_$00:00:10$_$3$_$-
